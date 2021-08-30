@@ -1,0 +1,16 @@
+---
+layout: post
+title: On AI
+---
+
+### On the genesis of synthetic art.
+
+In the beginning, man created art. Our current perception of the construct that is art seems to be heavily influenced by its use as a medium of creativity. That statement right there opened up a floodgate in my mind. Would it then be fair to classify the primitive illustrations on the walls of the caves in Lascaux as art? The consensus among most schools of thought in anthropology is that those illustrations were the precursors of the written word. That leads to the question “what be the written alphabet but mere illustrations that we are told to have meanings analogous to our thoughts?”. However, this article was not written to lead the audience into an existential crisis.
+
+Humans perceive depth in works of art by discerning underlying patterns, or the lack thereof, and associating them with their own experiences, emotions, and expectations. Expectations and emotions; these two factors dictate the responses of the more convoluted sections of our brains. Studies have shown that, like in the case of wine, people tend to discriminate based on explicit statements of cost, exclusivity, and label. In comparisons of unlabeled works by Dutch masters and their pupils, there were no detectable differences in the regions of the brain that were stimulated. The bottom line is that our brains respond positively to contrivances that are vibrant, depict illustrations of the paradigm, or bring back memories and feelings.
+
+The creation of art has always been considered a social process. We are the only species that has been observed to generate artefacts that fit into our definitions of art. Nevertheless, researchers are yet to come into concurrence as to the true logic that defines the human exercise that creates art. If we do not understand how humans create art, how can we create sentient algorithms to do so? Since most art generation algorithms today just infer the implied logic in pixel characteristics and apply the same set of rules to a new canvas, can we call that process creation? If a human forger took accurate measurements of the variations in luminance, color, artefact positioning, and the distance between brush strokes in paintings across a master’s entire portfolio, and regurgitated them on a new canvas, would we name that process as creation?
+
+Sure, computerized procedural art is considered original; but, that is only because it takes a human artist to conceptualize the procedure. It takes a mind that cannot currently be mapped by layers of conditional switches to get an idea. Machine learning algorithms that generate art do not have traits that can be traced back to a moment of enlightenment or inspiration. Event the best of them are but glorified data-fitting models. These algorithms will never be true artists - artists whose works explore emotion and experience. They can be artists whose works are about expression and communication. They can be among the best tools for embellishing a good man’s work. Without question, they will become the logical choice for art restoration.
+
+An algorithm controlled by a sentient mind can generate the greatest work of art ever known, but on its own it lacks the originality required for its work to be classified as true art.
